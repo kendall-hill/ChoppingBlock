@@ -14,7 +14,7 @@ This app responds to a real nutrition problem. Too many kids are growing up surr
 
 <p align="center">
   <a href="https://joshrfr.github.io/ChoppingBlock/">
-    <img src="./media/1000010953.jpg" alt="Chopping Block demo preview" width="560">
+    <img src="./media/1000010953.jpg" alt="Chopping Block demo preview" width="500">
   </a>
 </p>
 
