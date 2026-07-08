@@ -55,7 +55,7 @@ This public repository uses team aliases only.
 
 - Josh O. focused on systems integration, persistence, settings/account flows, and major menu/application wiring.
 - Nigel B. focused on core gameplay systems, food unlock logic, debugging, and gameplay-to-game-over flow improvements.
-- Kendal H. focused on major scene work, especially Game Over and Classic Tutorial presentation and UI progression.
+- Kendall H. focused on major scene work, especially Game Over and Classic Tutorial presentation and UI progression.
 - Mike J. helped keep the project organized, documented, and product-focused through business analysis and QA support across development.
 
 Source-control-backed contribution details are documented in [docs/CONTRIBUTIONS.md](docs/CONTRIBUTIONS.md).
